@@ -38,12 +38,3 @@ The project's future scope includes:
 ## Use of Open API
 
 The project integrates OpenAPI to facilitate seamless communication between different components, ensuring interoperability and flexibility in handling various data sources within computer networks.
-
-## How to Contribute
-
-Contributions to this project are welcome! Feel free to fork the repository, create your branch, and submit a pull request with your enhancements. For major changes, please open an issue to discuss potential updates.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
